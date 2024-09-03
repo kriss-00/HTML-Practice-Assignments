@@ -19,9 +19,9 @@ Create an HTML table to display your weekly schedule. The table should have:
 A header row with the days of the week
 At least three rows for different time slots (e.g., Morning, Afternoon, Evening)
 Data cells filled with activities for each time slot
+
 Assignment 4: HTML Image and Links
 Create an HTML document that includes:
-
 An image of your choice
 A caption for the image
 A link to the source of the image
